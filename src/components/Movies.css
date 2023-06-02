@@ -1,0 +1,36 @@
+.carousel-caption {
+  background-color: #333;
+  border-radius: 4px;
+}
+
+.carousel-control-prev-icon {
+  background-color: #999;
+  border-radius: 5px;
+}
+
+.carousel-control-next-icon {
+  background-color: #999;
+  border-radius: 5px;
+}
+
+.carousel-item {
+  justify-content: center;
+}
+
+.carousel-indicators {
+  border-color: #222;
+  border-width: 2px;
+  border-radius: 4px;
+  background-color: #333;
+}
+
+.carousel {
+  justify-content: center;
+  margin: 2vh;
+}
+
+.carousel img {
+  margin: auto;
+  height: 50%;
+  width: 50%;
+}
